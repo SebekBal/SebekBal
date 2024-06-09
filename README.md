@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmeditor)`**
 
-I'm a beginner developer and student, who wants to develop skills in coding and learn new things about it. My favourite language is C++ but im slowly transitioning to HTML. I'm here to share my works and learn from more experience developers how they're coding.
+I'm a beginner developer and student, who wants to develop skills in coding and learn new things about it. My favourite language is C++ but HTML is slowly becoming the best one for me. I'm here to share my works and learn from more experience developers how they're coding.
 
 ---
 
