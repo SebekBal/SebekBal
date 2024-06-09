@@ -16,8 +16,6 @@ I'm beginner developer and a student, who wants to develop skills in coding and 
 ---
 
 ###🎓 Certifcate
-Introduction to Cybersecurity
-Introduction to the Internet of Everything
-IT Essentials
+[![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=8deKXiV-eLE&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=8deKXiV-eLE)
 
 ---
