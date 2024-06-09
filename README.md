@@ -18,6 +18,7 @@ I'm beginner developer and a student, who wants to develop skills in coding and 
 ###🎓 Certifcate
 
 
+[SebastianBałdyga-Introduction to -certificate (2).pdf](https://github.com/user-attachments/files/15751155/SebastianBaldyga-Introduction.to.-certificate.2.pdf)
 
 #
 ---
