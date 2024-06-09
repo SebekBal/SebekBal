@@ -17,11 +17,11 @@ I'm beginner developer and a student, who wants to develop skills in coding and 
 
 ###🎓 Certifcate
 
-*Introduction to Cybersecurity*
+<a href="file:///C:/Users/sebas/Downloads/SebastianBa%C5%82dyga-Introduction%20to%20-certificate%20(2).pdf">*Introduction to Cybersecurity*
 
-*Introduction to the Internet of Everything*
+<a href="file:///C:/Users/sebas/Downloads/SebastianBa%C5%82dyga-Introduction%20to%20-certificate%20(1).pdf">*Introduction to the Internet of Everything*
 
-*IT Essentials*
+<a href="file:///C:/Users/sebas/Downloads/SebastianBa%C5%82dyga-IT%20Essentials-certificate.pdf">*IT Essentials*
 
 #
 ---
