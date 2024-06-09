@@ -15,7 +15,7 @@ I'm a beginner developer and student, who wants to develop skills in coding and 
 
 ---
 
-###🎓 Certifcate
+###🎓 Certifcates
 
 <a href="file:///C:/Users/sebas/Downloads/SebastianBa%C5%82dyga-Introduction%20to%20-certificate%20(2).pdf">*Introduction to Cybersecurity*
 
