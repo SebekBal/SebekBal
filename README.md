@@ -19,9 +19,9 @@ I'm beginner developer and a student, who wants to develop skills in coding and 
 
 *Introduction to Cybersecurity*
 
-Introduction to the Internet of Everything
+*Introduction to the Internet of Everything*
 
-IT Essentials
+*IT Essentials*
 
 #
 ---
