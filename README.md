@@ -21,7 +21,7 @@ I'm beginner developer and a student, who wants to develop skills in coding and 
 
 <a href="file:///C:/Users/sebas/Downloads/SebastianBa%C5%82dyga-Introduction%20to%20-certificate%20(1).pdf">*Introduction to the Internet of Everything*
 
-<a href="file:///C:/Users/sebas/Downloads/SebastianBa%C5%82dyga-IT%20Essentials-certificate.pdf">*IT Essentials*
+<a href="[file:///C:/Users/sebas/Downloads/SebastianBa%C5%82dyga-IT%20Essentials-certificate.pdf](https://www.credly.com/badges/f7702d50-3a7e-4d5f-b0bc-3c1b80cf67be)">*IT Essentials*
 
 #
 ---
