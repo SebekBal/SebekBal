@@ -16,7 +16,8 @@ I'm beginner developer and a student, who wants to develop skills in coding and 
 ---
 
 ###🎓 Certifcate
-<*Introduction to Cybersecurity*/>
+
+*Introduction to Cybersecurity*
 
 Introduction to the Internet of Everything
 
